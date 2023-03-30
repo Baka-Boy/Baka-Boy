@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif)
-<img align="center" src="https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif" alt="baka__boi" height="400" width="4000" />
+![MasterHead](<img align="center" src="https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif" alt="baka__boi" height="250" width="400" />)
+
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
