@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baka-boy&label=Profile%20views&color=0e75b6&style=flat" alt="baka-boy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/baka__boi" target="blank"><img src="https://img.shields.io/twitter/follow/baka__boi?logo=twitter&style=for-the-badge" alt="baka__boi" /></a> </p>
-
 - 📫 How to reach me **p.susheelkumar@somaiya.edu**
 
 <h3 align="left">Connect with me:</h3>
