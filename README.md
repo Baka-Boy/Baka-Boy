@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif" alt="baka__boi" height="450" width="900" />
+<center><img align="center" src="https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif" alt="baka__boi" height="450" width="900" /></center>
 
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate software developer from India</h3>
