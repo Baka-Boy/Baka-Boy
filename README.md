@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif)
+![MasterHead](<img src="https://github.com/Baka-Boy/Baka-Boy/blob/main/pixel.gif" width="250" height="250"/>)
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
